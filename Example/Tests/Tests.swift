@@ -1,5 +1,4 @@
 import XCTest
-import BBKit
 
 class Tests: XCTestCase {
     

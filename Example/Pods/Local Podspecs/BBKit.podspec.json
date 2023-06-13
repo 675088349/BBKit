@@ -1,9 +1,9 @@
 {
   "name": "BBKit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A short description of BBKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/BBKit/BBKit",
+  "homepage": "git@github.com:675088349/BBKit.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,16 @@
     "BBKit": "67508834@qq.com"
   },
   "source": {
-    "git": "https://github.com/BBKit/BBKit.git",
-    "tag": "0.1.0"
+    "git": "git@github.com:675088349/BBKit.git",
+    "tag": "0.1.1"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "13.0"
   },
-  "source_files": "BBKit/Classes/**/*"
+  "source_files": "BBKit/Classes/**/*",
+  "static_framework": true,
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
 }
