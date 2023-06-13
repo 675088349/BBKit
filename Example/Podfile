@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'BBKit_Example' do
+  pod 'BBKit', :path => '../'
+
+  target 'BBKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

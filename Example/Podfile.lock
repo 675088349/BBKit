@@ -1,0 +1,16 @@
+PODS:
+  - BBKit (0.1.0)
+
+DEPENDENCIES:
+  - BBKit (from `../`)
+
+EXTERNAL SOURCES:
+  BBKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BBKit: 786e2d1fd467d4e1669fc1dff7554e6aec29ff04
+
+PODFILE CHECKSUM: 2ea1b437932f57758dd99de64d6e742f9267303b
+
+COCOAPODS: 1.12.1
