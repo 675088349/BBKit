@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BBKit'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of BBKit.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/BBKit/BBKit'
+  s.homepage         = 'git@github.com:675088349/BBKit.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'BBKit' => '67508834@qq.com' }
-  s.source           = { :git => 'https://github.com/BBKit/BBKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:675088349/BBKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
