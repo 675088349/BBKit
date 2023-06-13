@@ -1,6 +1,6 @@
 {
   "name": "BBKit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A short description of BBKit.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "git@github.com:675088349/BBKit.git",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "git@github.com:675088349/BBKit.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "13.0"

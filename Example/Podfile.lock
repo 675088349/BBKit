@@ -1,5 +1,5 @@
 PODS:
-  - BBKit (0.1.1)
+  - BBKit (0.1.2)
 
 DEPENDENCIES:
   - BBKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BBKit: e2b83dbe3b642ebfa9efb748ff32971125a71870
+  BBKit: 222ac9e7615eaa0a53c6b709741fe7a449c1b8c5
 
 PODFILE CHECKSUM: 81115809706cf38b8d382f56c21fef86e3cbba50
 
